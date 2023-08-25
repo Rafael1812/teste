@@ -1,2 +1,2 @@
 # teste
-repositório de teste
+Aprendendo a utilizar repositório do github
